@@ -1,4 +1,5 @@
 #!/home/tknao/anaconda3/bin/python3
+# SPDX-FileCopyrightText: 2025 Nao Takahashi
 import sys
 
 ans = 0.0
