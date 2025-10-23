@@ -1,5 +1,6 @@
 #!/home/tknao/anaconda3/bin/python3
 # SPDX-FileCopyrightText: 2025 Nao Takahashi
+# SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0.0
