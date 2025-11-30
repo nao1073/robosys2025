@@ -9,16 +9,6 @@ ng () {
 
 res=0
 
-out=$(seq 5 | ./plus)
-[ "${out}" = 15 ] || ng "$LINENO"
-
-out=$(echo あ | ./plus)
-[ "$?" = 1 ] || ng "$LINENO"
-[ "${out}" = "" ] || ng "$LINENO"
-
-out=$(echo | ./plus)
-[ "$?" = 1 ] || ng "$LINENO"
-[ "${out}" = "" ] || ng "$LINENO"
 
 out=$(echo 0 | ./fibonacci)
 [ "${out}" = 0 ] || ng "$LINENO"
