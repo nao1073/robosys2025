@@ -3,7 +3,8 @@
 
 ![test](https://github.com/nao1073/robosys2025/actions/workflows/test.yml/badge.svg)
 
-[README](./README.md)は[KoukiHagiwara](https://github.com/KoukiHagiwara)の[robosys2024](https://github.com/KoukiHagiwara/robosys2024)(© 2024 Kouki Hagiwara)を参考にしています。
+本リポジトリの[README](./README.md)の構成は下記のリポジトリを参考にして作成しています。
+[KoukiHagiwara](https://github.com/KoukiHagiwara)-[robosys2024](https://github.com/KoukiHagiwara/robosys2024)(© 2024 Kouki Hagiwara)
 
 ## インストール方法
 以下のコマンドを実行して、ローカル環境でコマンドを実行できるようにする。
@@ -47,6 +48,6 @@ $ echo 10 | ./Fibonacci
 ## ライセンス
 - このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されています。
 - このパッケージのコードは、下記のスライド(CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自分の著作物としたものです。
-	- [ryuichiueda/my_sldes robosys_2025](https://github.com/ryuichiueda/robosys2025)
+	- [ryuichiueda/my_slides robosys_2025](https://github.com/ryuichiueda/robosys2025)
 - © 2025 Nao Takahashi
 
