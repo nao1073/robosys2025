@@ -35,7 +35,5 @@ $ echo 10 | ./fibonacci
 
 ## ライセンス
 - このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されています。
-- このパッケージのコードは、下記のスライド(CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自分の著作物としたものです。
-	- [ryuichiueda/my_slides robosys_2025](https://github.com/ryuichiueda/robosys2025)
 - © 2025 Nao Takahashi
 
