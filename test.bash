@@ -20,26 +20,26 @@ out=$(echo | ./plus)
 [ "$?" = 1 ] || ng "$LINENO"
 [ "${out}" = "" ] || ng "$LINENO"
 
-out=$(echo 0 | ./Fibonacci)
+out=$(echo 0 | ./fibonacci)
 [ "${out}" = 0 ] || ng "$LINENO"
 
-out=$(echo 1 | ./Fibonacci)
+out=$(echo 1 | ./fibonacci)
 [ "${out}" = 1 ] || ng "$LINENO"
 
-out=$(echo 5| ./Fibonacci)
+out=$(echo 5| ./fibonacci)
 [ "${out}" = 5 ] || ng "$LINENO"
 
-out=$(echo 10| ./Fibonacci)
+out=$(echo 10| ./fibonacci)
 [ "${out}" = 55 ] || ng "$LINENO"
 
-out=$(echo 15| ./Fibonacci)
+out=$(echo 15| ./fibonacci)
 [ "${out}" = 610 ] || ng "$LINENO"
 
-out=$(echo あ | ./Fibonacci)
+out=$(echo あ | ./fibonacci)
 [ "$?" = 1 ] || ng "$LINENO"
 [ "${out}" = "" ] || ng "$LINENO"
 
-out=$(echo | ./Fibonacci)
+out=$(echo | ./fibonacci)
 [ "$?" = 1 ] || ng "$LINENO"
 [ "${out}" = "" ] || ng "$LINENO"
 
