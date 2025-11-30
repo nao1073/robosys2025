@@ -5,7 +5,7 @@
 
 本リポジトリの[README](./README.md)の構成は下記のリポジトリを参考にして作成しています。
 
-[KoukiHagiwara](https://github.com/KoukiHagiwara) - [robosys2024](https://github.com/KoukiHagiwara/robosys2024)(© 2024 Kouki Hagiwara)
+[KoukiHagiwara/robosys2024](https://github.com/KoukiHagiwara/robosys2024)(© 2024 Kouki Hagiwara)
 
 ## インストール方法
 以下のコマンドを実行して、ローカル環境でコマンドを実行できるようにする。
