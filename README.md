@@ -13,7 +13,6 @@ $ cd robosys2025
 ```
 
 ## fibonacciコマンド
-![test](https://github.com/nao1073/robosys2025/actions/workflows/test.yml/badge.svg)
 - 標準入力された数値番目のフィボナッチ数（項が前の二つの項の和となる数）を表示するコマンド
 - 下記のようにechoの後に数値を入力し、./fibonacciを実行してください。
 
