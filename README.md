@@ -8,19 +8,20 @@
 [KoukiHagiwara/robosys2024](https://github.com/KoukiHagiwara/robosys2024)(© 2024 Kouki Hagiwara)
 
 ## インストール方法
-以下のコマンドを実行して、ローカル環境でコマンドを実行できるようにする。
+以下のコマンドを実行して、ローカル環境でコマンドを実行できるようにしてください。
 ```
 $ git clone https://github.com/nao1073/robosys2025.git
 $ cd robosys2025
 ```
 
-## Fibonacciコマンド
+## fibonacciコマンド
+![test](https://github.com/nao1073/robosys2025/actions/workflows/test.yml/badge.svg)
 - 標準入力された数値番目のフィボナッチ数（項が前の二つの項の和となる数）を表示するコマンド
-- echoの後に数値を入力し、./Fibonacciを実行する。
+- 下記のようにechoの後に数値を入力し、./fibonacciを実行してください。
 
 実行例：10番目のフィボナッチ数を出力
 ```
-$ echo 10 | ./Fibonacci
+$ echo 10 | ./fibonacci
 ```
 実行結果 
 ```
