@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/bin/bash -xvi
 # SPDX-FileCopyrightText: 2025 Nao Takahashi
 # SPDX-License-Identifier: BSD-3-Clause
 
